@@ -16,13 +16,15 @@ Open Source Enthusiast
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
+
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik-dev01&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik-dev01&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-dev01&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-dev01&layout=compact&theme=dark)
+
 ---
 
 ## ⚡ Currently Working On
@@ -32,8 +34,6 @@ Open Source Enthusiast
 - Data Structures & Algorithms
 - Open Source Contributions
 
---- 
-
 ---
 
 ## 🌐 Connect With Me
@@ -42,11 +42,9 @@ Open Source Enthusiast
   <a href="https://www.linkedin.com/in/pratik-bandagar-705987324/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
-  <a href="mailto:pratikbandgar9009@gmail.com">
+  <a href="mailto:pratikbandagar9009@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  
   <a href="https://github.com/pratik-dev01" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
