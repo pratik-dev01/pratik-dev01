@@ -20,7 +20,7 @@ Open Source Enthusiast
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-dev01&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pratik-dev01&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=pratik-dev01&theme=tokyonight)
 
 ---
 
