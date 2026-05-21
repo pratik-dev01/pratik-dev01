@@ -8,10 +8,14 @@ Open Source Enthusiast
 
 ## 🚀 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,flask,nodejs,mysql,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,kotlin,r,flask,nodejs,mysql,git,github,vscode,linux,bash,postman,docker" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 ---
 
 ## 📈 GitHub Stats
