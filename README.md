@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋 I'm Pratik
 
-<!--
-**pratik-dev01/pratik-dev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend + ML Developer  
+C++ Problem Solver  
+Open Source Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,flask,nodejs,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik-dev01&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-dev01&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pratik-dev01&theme=tokyonight)
+
+---
+
+## ⚡ Currently Working On
+
+- Backend Development
+- Machine Learning
+- Data Structures & Algorithms
+- Open Source Contributions
+
+--- 
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pratik-bandagar-705987324/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:pratikbandgar9009@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  
+  <a href="https://github.com/pratik-dev01" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
