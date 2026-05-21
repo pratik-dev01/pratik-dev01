@@ -21,10 +21,9 @@ Open Source Enthusiast
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik-dev01&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pratik-dev01&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-dev01&layout=compact&theme=dark)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratik-dev01&layout=compact&theme=dark)
 ---
 
 ## ⚡ Currently Working On
